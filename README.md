@@ -1,0 +1,2 @@
+# KaraArema
+Karaoke platform
